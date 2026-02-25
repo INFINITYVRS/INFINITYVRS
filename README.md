@@ -40,10 +40,10 @@ Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.i
 
 ## 📫 Connect with Me
 
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/vijay-raj-shekhar-408549269/)" target="_blank">
+<a href="https://www.linkedin.com/in/vijay-raj-shekhar-408549269/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME/](https://leetcode.com/u/vijayrajshekhar/)" target="_blank">
+<a href="https://leetcode.com/u/vijayrajshekhar/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
 </a>
