@@ -14,7 +14,8 @@ Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.i
 - Focused on writing clean, scalable, and practical code  
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=INFINITYVRS&style=for-the-badge)
+---
 ## 🛠️ Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" />
 
