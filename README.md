@@ -1,6 +1,6 @@
 # Hi, I'm Vijay 👋
 
-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)  
+Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)  
 💻 Interested in Software Development, DSA, System Design, and Web3  
 🚀 Preparing for placements and building real-world projects
 
