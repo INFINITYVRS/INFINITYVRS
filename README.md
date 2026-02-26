@@ -1,6 +1,9 @@
-# Hi, I'm Vijay 👋
-
+# Hi, I'm Vijay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CSE+@+VIT+Vellore;Aspiring+Software+Developer;C%2B%2B+%7C+DSA+%7C+System+Design+%7C+Operation+System;Building+Real-World+Projects" />
+</p>
 Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)
+
 
 - 💻 Passionate about Software Development, DSA, System Design & OS  
 - 🚀 Actively preparing for placements and building scalable projects  
@@ -16,8 +19,13 @@ Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.
 - Love working with backend, DSA, and full-stack web  
 - Focused on writing clean, scalable, and practical code  
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=INFINITYVRS&style=for-the-badge)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=INFINITYVRS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
+
 ## 🛠️ Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" />
 
