@@ -1,21 +1,20 @@
 # Hi, I'm Vijay 👋
 
-Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)  
-💻 Passionate about Software Development, DSA, System Design & OS
-🚀 Actively preparing for placements and building scalable projects
-🧠 1.5+ years of consistent problem-solving & CS fundamentals
-🛠️ Tech: C++, Solidity, JS, React, Node, SQL
-📈 Love turning ideas into products & optimizing performance
-🎯 Goal: Crack a good SDE role and keep growing as an engineer
----
+Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)
+
+- 💻 Passionate about Software Development, DSA, System Design & OS  
+- 🚀 Actively preparing for placements and building scalable projects  
+- 🧠 1.5+ years of consistent problem-solving & CS fundamentals  
+- 🛠️ Tech: C++, Solidity, JS, React, Node, SQL  
+- 📈 Love turning ideas into products & optimizing performance  
+- 🎯 Goal: Crack a good SDE role and keep growing as an engineer  
 
 ## 🧑‍💻 About Me
 
-- Consistent problem solver and project builder
-- Building products that blend innovation and impact
+- Consistent problem solver and project builder  
+- Building products that blend innovation and impact  
 - Love working with backend, DSA, and full-stack web  
 - Focused on writing clean, scalable, and practical code  
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=INFINITYVRS&style=for-the-badge)
 ---
