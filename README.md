@@ -1,9 +1,12 @@
 # Hi, I'm Vijay 👋
 
 Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)  
-💻 Interested in Software Development, DSA, System Design, and Web3  
-🚀 Preparing for placements and building real-world projects
-
+💻 Passionate about Software Development, DSA, System Design & OS
+🚀 Actively preparing for placements and building scalable projects
+🧠 1.5+ years of consistent problem-solving & CS fundamentals
+🛠️ Tech: C++, Solidity, JS, React, Node, SQL
+📈 Love turning ideas into products & optimizing performance
+🎯 Goal: Crack a good SDE role and keep growing as an engineer
 ---
 
 ## 🧑‍💻 About Me
