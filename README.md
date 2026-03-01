@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CSE+@+VIT+Vellore;Aspiring+Software+Developer;C%2B%2B+%7C+DSA+%7C+System+Design+%7C+Operation+System;Building+Real-World+Projects" />
 </p>
+
 Pre-Final Year Computer Science Engineering Student @ [VIT Vellore](https://vit.ac.in/)
 
 
